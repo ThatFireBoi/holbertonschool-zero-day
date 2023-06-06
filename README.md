@@ -1,2 +1,2 @@
 My first readme
-First and only edit allowd from GitHub
+First and only edit allowed from GitHub
